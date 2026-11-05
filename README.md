@@ -22,13 +22,13 @@ I specialize in building high-performance web applications, serverless architect
 * Built with Next.js (App Router), React, TypeScript, Tailwind CSS, and Recharts.
 * Engineered secure Next.js Server Actions, real-time latency polling mechanisms, and client-side state management via Zustand.
 * Integrated Prisma ORM with a hosted Supabase PostgreSQL database, utilizing connection poolers for low-latency serverless edge execution.
-* [Live Demo](https://your-live-demo-url.com) · [Repository Source](https://github.com/krsnelgrove-del/operation-overthink)
+* [Live Demo](https://operation-overthink.netlify.app/home) · [Repository Source](https://github.com/krsnelgrove-del/operation-overthink)
 
 #### 🎨 [Interactive WebGL 3D Showroom Configurator](https://github.com/krsnelgrove-del/3d-configurator)
 **Interactive Web Product Configurator & Sales Automation Tool**
 * Designed an interactive 3D web configurator to automate sales quote generation pipelines for specialty vehicle upfitters.
 * Implemented responsive design systems using Tailwind CSS and component architectures supporting multi-resolution breakpoints.
-* [Live Demo](https://your-live-demo-url.com) · [Repository Source](https://github.com/krsnelgrove-del/3d-configurator)
+* [Live Demo](https://configurator-demo-s001.netlify.app/) · [Repository Source](https://github.com/krsnelgrove-del/3d-configurator)
 
 ---
 
