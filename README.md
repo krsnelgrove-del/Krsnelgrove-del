@@ -27,7 +27,7 @@ I specialize in building high-performance web applications, serverless architect
 | | |
 |---|---|
 | **Frontend** | Next.js (App Router), React, TypeScript, Tailwind CSS, shadcn/ui, Zustand, Recharts, Web Audio API |
-| **Backend** | Node.js, Prisma ORM, PostgreSQL, Supabase, Server Actions, RESTful APIs |
+| **Backend** | Node.js, Prisma ORM, PostgreSQL, Supabase, Next.js Route Handlers, RESTful APIs |
 | **DevOps** | Git, GitHub Actions, Netlify Edge, Vercel, Serverless Functions, Connection Pooling (PgBouncer) |
 
 ---
@@ -53,16 +53,23 @@ I specialize in building high-performance web applications, serverless architect
 **Full-Stack Next.js Technical Showcase & Web Dashboard**
 
 * Built with Next.js (App Router), React, TypeScript, Tailwind CSS, and Recharts.
-* Engineered secure Next.js Server Actions, real-time latency polling mechanisms, and client-side state management via Zustand.
+* Engineered Next.js route handlers, real-time latency polling mechanisms, and client-side state management via Zustand.
 * Integrated Prisma ORM with a hosted Supabase PostgreSQL database, utilizing connection poolers for low-latency serverless edge execution.
 * [Live Demo](https://operation-overthink.netlify.app/home) · [Repository Source](https://github.com/krsnelgrove-del/operation-overthink)
 
-### 🎨 [Interactive WebGL 3D Showroom Configurator](https://github.com/krsnelgrove-del/3d-configurator)
-**Interactive Web Product Configurator & Sales Automation Tool**
+### 🚐 [Look! 3D Vehicle Configurator](https://github.com/krsnelgrove-del/Look-Product-Configurator)
+**Real-time 3D product configurator built in Unity and deployed to the web as WebGL**
 
-* Designed an interactive 3D web configurator to automate sales quote generation pipelines for specialty vehicle upfitters.
-* Implemented responsive design systems using Tailwind CSS and component architectures supporting multi-resolution breakpoints.
-* [Live Demo](https://configurator-demo-s001.netlify.app/) · [Repository Source](https://github.com/krsnelgrove-del/3d-configurator)
+![Unity](https://img.shields.io/badge/Unity_6-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+* Built an interactive 3D vehicle configurator with orbit and zoom controls, live paint, rim, and accessory changes, and a running USD total, aimed at streamlining sales quotes for specialty vehicle upfitters.
+* Used Cinemachine for smooth camera transitions and weighed its per-frame blend cost against the alternative of hand-rolled interpolation.
+* Modeled pricing in integer pennies with an event-driven cart, plus JSON export of the order for a future quoting backend.
+* Shipped a Brotli-compressed WebAssembly build to Netlify by configuring `Content-Type` and `Content-Encoding` headers in `netlify.toml`.
+* [Live Demo](https://configurator-demo-s001.netlify.app/) · [Repository Source](https://github.com/krsnelgrove-del/Look-Product-Configurator)
 
 ---
 
