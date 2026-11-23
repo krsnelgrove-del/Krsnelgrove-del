@@ -40,6 +40,7 @@ I specialize in building high-performance web applications, serverless architect
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433e38?style=flat-square)
 
 * Built a playable synth with sine, sawtooth, triangle, and square oscillators, an ADSR envelope, and a reverb, delay, and distortion effects chain, with no audio libraries.
@@ -51,6 +52,14 @@ I specialize in building high-performance web applications, serverless architect
 
 ### ⚡ [Operation: Overthink](https://github.com/krsnelgrove-del/operation-overthink)
 **Full-Stack Next.js Technical Showcase & Web Dashboard**
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433e38?style=flat-square)
 
 * Built with Next.js (App Router), React, TypeScript, Tailwind CSS, and Recharts.
 * Engineered Next.js route handlers, real-time latency polling mechanisms, and client-side state management via Zustand.
